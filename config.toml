@@ -1,0 +1,17 @@
+baseURL = "https://exampl.org/"
+themesDir = "themes"
+publishDir = "docs"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+theme = "hugo_theme"
+
+[params]
+  name = "Abdul Ghaffar"
+  description = "This is my new hugo site"
+  bio = "I am a web developer"
+  enableRSS = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
