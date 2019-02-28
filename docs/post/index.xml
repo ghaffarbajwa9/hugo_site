@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://ghaffarbajwa9.github.io/hugo_site/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://ghaffarbajwa9.github.io/hugo_site/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2019 23:38:59 +0500</lastBuildDate>
     
-	<atom:link href="https://ghaffarbajwa9.github.io/hugo_site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghaffarbajwa9.github.io/hugo_site/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://ghaffarbajwa9.github.io/hugo_site/post/second_post/</guid>
       <description>This is my second post</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://ghaffarbajwa9.github.io/hugo_site/first-post/</link>
-      <pubDate>Thu, 28 Feb 2019 22:45:47 +0500</pubDate>
-      
-      <guid>https://ghaffarbajwa9.github.io/hugo_site/first-post/</guid>
-      <description>This is my first post</description>
     </item>
     
   </channel>
