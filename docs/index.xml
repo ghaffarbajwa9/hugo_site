@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://ghaffarbajwa9.github.io/hugo_site/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2019 23:38:59 +0500</lastBuildDate>
     
-	<atom:link href="https://ghaffarbajwa9.github.io/hugo_site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second_post</title>
-      <link>https://ghaffarbajwa9.github.io/hugo_site/post/second_post/</link>
+      <link>https://example.org/post/second_post/</link>
       <pubDate>Thu, 28 Feb 2019 23:38:59 +0500</pubDate>
       
-      <guid>https://ghaffarbajwa9.github.io/hugo_site/post/second_post/</guid>
+      <guid>https://example.org/post/second_post/</guid>
       <description>This is my second post</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>https://ghaffarbajwa9.github.io/hugo_site/first-post/</link>
+      <link>https://example.org/first-post/</link>
       <pubDate>Thu, 28 Feb 2019 22:45:47 +0500</pubDate>
       
-      <guid>https://ghaffarbajwa9.github.io/hugo_site/first-post/</guid>
+      <guid>https://example.org/first-post/</guid>
       <description>This is my first post</description>
     </item>
     
