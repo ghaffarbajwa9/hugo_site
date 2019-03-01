@@ -9,3 +9,4 @@ author: "Abdul Ghaffar Bajwa"
 this is content of third post.....
 in this i want to show that Pakistan army is the best army in the world. There is none of
 second for theme.
+{{<related-list>}}

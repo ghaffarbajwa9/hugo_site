@@ -2,7 +2,7 @@
 <html ⚡>
   <head>
     <meta charset="utf-8">
-    <title>First Post - My New Hugo Site</title>
+    <title>First post - My New Hugo Site</title>
     <meta name="generator" content="Hugo 0.54.0" />
     <link rel="canonical" href="https://ghaffarbajwa9.github.io/hugo_site/first-post/" />
     <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -20,23 +20,38 @@
     <style amp-custom>.index-list{
   width: 96%;
   margin: auto;
-  margin-top: .7rem;
-  height: 3rem;
   padding: 1rem;
-  -webkit-box-shadow: 0 0 0 2px #979699;
-  box-shadow: 0 0 0 2px #979699;
   font-size: 2rem;
 }
+.box-shadow{
+  box-shadow: 1px 1px 0 0;
+}
+.margin-top{ margin-top:.3rem;}
 .index-link{
   text-decoration: none;
   color: #000;
+}
+.related {
+  background-color: var(--color-bg-light);
+  margin: var(--space-2);
+  display: flex;
+  color: var(--color-text-dark);
+  padding: 0;
+  text-decoration: none;
+}
+.related > span {
+  font-weight: 400;
+  margin: var(--space-1);
+}
+.related:hover {
+  background-color: var(--color-bg-light);
 }
 </style>
     <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "BlogPosting",
-  "headline": "First Post",
+  "headline": "First post",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://ghaffarbajwa9.github.io/hugo_site/first-post/"
@@ -49,7 +64,7 @@
   },
   "genre": "page",
   "keywords": "99, 114, 105, 99, 107, 101, 116, 44, 109, 97, 116, 99, 104",
-  "wordcount": 14,
+  "wordcount": 38,
   "url": "https://ghaffarbajwa9.github.io/hugo_site/first-post/",
   "datePublished": "2019-03-01T03:00:46+05:00",
   "dateModified": "2019-03-01T03:00:46+05:00",
@@ -66,7 +81,7 @@
   },
   "author": {
     "@type": "Person",
-    "name": "Abdul Ghaffar"
+    "name": "Abdul Ghaffar Sahib"
   },
   "description": ""
 }
@@ -76,11 +91,28 @@
   <body>
 
 
-<h1> First Post</h1>
+<h1> First post</h1>
+<p>By: Abdul Ghaffar Sahib<br>2019-03-01 03:00:46 &#43;0500 PKT</p>
 <p><p>Lahore qalandars won by 30 runs in today match.
-this is my first post.</p>
-</p>
+this is my first post.
 
+ <h2>Related Articles</h2>
+ <p>These articles might be interesting for you as well:</p>
+
+<div class="index-list box-shadow">
+  <a class="related" href="/samples_templates/product/preview"><amp-img src="/img/thumbnails/1.jpg" width="101" height="75" alt=""></amp-img><span>Shopping websites with AMP</span></a>
+</div>
+
+<div class="index-list box-shadow">
+  <a class="related" href="/samples_templates/recipe/preview"><amp-img src="/img/thumbnails/2.jpg" width="101" height="75" alt=""></amp-img><span>The tastiest recipes with AMP</span></a>
+</div>
+
+<div class="index-list box-shadow">
+  <a class="related" href="/samples_templates/news_article/preview"><amp-img src="/img/thumbnails/3.jpg" width="101" height="75" alt=""></amp-img><span>News Articles with AMP</span></a>
+</div>
+
+</p>
+</p>
     </main>
   </body>
 </html>
