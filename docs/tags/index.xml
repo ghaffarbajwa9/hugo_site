@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://github.com/ghaffarbajwa9/hugo_site/tags/</link>
+    <link>https://ghaffarbajwa9.github.io/hugo_site/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 03:00:46 +0500</lastBuildDate>
     
-	<atom:link href="https://github.com/ghaffarbajwa9/hugo_site/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghaffarbajwa9.github.io/hugo_site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cricketmatch</title>
-      <link>https://github.com/ghaffarbajwa9/hugo_site/tags/cricketmatch/</link>
+      <link>https://ghaffarbajwa9.github.io/hugo_site/tags/cricketmatch/</link>
       <pubDate>Fri, 01 Mar 2019 03:00:46 +0500</pubDate>
       
-      <guid>https://github.com/ghaffarbajwa9/hugo_site/tags/cricketmatch/</guid>
+      <guid>https://ghaffarbajwa9.github.io/hugo_site/tags/cricketmatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imran Khan Pakistan India War</title>
-      <link>https://github.com/ghaffarbajwa9/hugo_site/tags/imran-khan-pakistan-india-war/</link>
+      <link>https://ghaffarbajwa9.github.io/hugo_site/tags/imran-khan-pakistan-india-war/</link>
       <pubDate>Fri, 01 Mar 2019 03:01:12 +0500</pubDate>
       
-      <guid>https://github.com/ghaffarbajwa9/hugo_site/tags/imran-khan-pakistan-india-war/</guid>
+      <guid>https://ghaffarbajwa9.github.io/hugo_site/tags/imran-khan-pakistan-india-war/</guid>
       <description></description>
     </item>
     

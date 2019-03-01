@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imran Khan Pakistan India War on My New Hugo Site</title>
-    <link>https://github.com/ghaffarbajwa9/hugo_site/tags/imran-khan-pakistan-india-war/</link>
+    <link>https://ghaffarbajwa9.github.io/hugo_site/tags/imran-khan-pakistan-india-war/</link>
     <description>Recent content in Imran Khan Pakistan India War on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 03:01:12 +0500</lastBuildDate>
     
-	<atom:link href="https://github.com/ghaffarbajwa9/hugo_site/tags/imran-khan-pakistan-india-war/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghaffarbajwa9.github.io/hugo_site/tags/imran-khan-pakistan-india-war/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second Post</title>
-      <link>https://github.com/ghaffarbajwa9/hugo_site/posts/second-post/</link>
+      <link>https://ghaffarbajwa9.github.io/hugo_site/posts/second-post/</link>
       <pubDate>Fri, 01 Mar 2019 03:01:12 +0500</pubDate>
       
-      <guid>https://github.com/ghaffarbajwa9/hugo_site/posts/second-post/</guid>
+      <guid>https://ghaffarbajwa9.github.io/hugo_site/posts/second-post/</guid>
       <description>Pakistan released IAF pilot, caught yesterday. this is second post.</description>
     </item>
     
