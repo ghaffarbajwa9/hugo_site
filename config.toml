@@ -1,4 +1,4 @@
-baseURL = "https://ghaffarbajwa9.github.io/hugo_site/"
+baseURL = "https://github.com/ghaffarbajwa9/hugo_site"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
@@ -6,11 +6,33 @@ title = "My New Hugo Site"
 
 theme = "hugo_theme"
 
+[author]
+  name= "Abdul Ghaffar"
+
 [params]
   name = "Abdul Ghaffar"
   description = "This is my new hugo site"
   bio = "I am a web developer"
   enableRSS = true
+
+  [params.publisher]
+    name= "bajwa softs"
+
+    [params.publisher.logo]
+      url= ""
+      width= 127
+      height= 40
+
+  [params.logo]
+    url= ""
+    width= 127
+    height= 40
+
+  [params.image]
+    url= ""
+    width= 800
+    height= 600
+
 
 [taxonomies]
   tag = "tags"
