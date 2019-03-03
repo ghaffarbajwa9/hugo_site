@@ -1,10 +1,4 @@
-<!-- {{ range .Site.RegularPages }}
-  <div class="index-list">
-    <a class="index-link" href="{{ .Permalink }}"><amp-img src="{{ .Params.Thumbnail }}"  alt="this is Thumbnail" width=5rem height=5rem ></amp-img><span>{{ .Title }}</span></a>
-  </div>
-{{ end }}
- -->
- <h2>Related Articles</h2>
+<h2>Related Articles</h2>
  <p>These articles might be interesting for you as well:</p>
 {{ range .Site.Data.related }}
 <div class="index-list box-shadow">

@@ -5,5 +5,23 @@ tags: ""
 categories: ""
 draft: false
 author: ""
+page_content: [
+  {
+  text: '',
+  image_url: ''
+  },
+  {
+  text: '',
+  image_url: ''
+  },
+  {
+  text: '',
+  image_url: ''
+  },
+  {
+  text: '',
+  image_url: ''
+  }
+]
 ---
 

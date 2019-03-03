@@ -1,5 +1,5 @@
 {
- "items1":
+ "items":
    {
      "title": "Shopping websites with AMP",
      "thumbnail": "/img/thumbnails/1.jpg",
@@ -17,5 +17,4 @@
      "thumbnail": "/img/thumbnails/3.jpg",
      "url": "/samples_templates/news_article/preview"
    }
-
 }
