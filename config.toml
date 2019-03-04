@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = "https://ghaffarbajwa9.github.io/hugo_site/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
-title = "Hugo Site"
+title = "My New Hugo Site"
 
 theme = "hugo_theme"
 
