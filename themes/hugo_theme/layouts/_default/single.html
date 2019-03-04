@@ -1,5 +1,6 @@
 {{ partial "header.html" . }}
 <h1> {{ .Title }}</h1>
+<p>{{.Summary}}</p>
 <p>By: {{ .Params.Author }}<br>{{ .Params.date }}</p>
 <p>{{ .Content }}</p>
 {{ partial "footer.html" .}}

@@ -1,6 +1,4 @@
-{{ range $.Page.Params.Page_content }}
-  <p>{{.text}}</p>
-
+{{ range $.Page.Params.Image1 }}
   {{ $null := 0}}
   {{$image_url:= .image_url }}
   {{$len_img := len $image_url}}

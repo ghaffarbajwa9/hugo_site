@@ -3,81 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/abc/</loc>
+    <loc>https://example.org/abc/</loc>
     <lastmod>2019-03-02T18:20:42+05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/posts/third/</loc>
+    <loc>https://example.org/posts/third/</loc>
     <lastmod>2019-03-01T14:36:24+05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/posts/second-post/</loc>
+    <loc>https://example.org/posts/second-post/</loc>
     <lastmod>2019-03-01T03:01:12+05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/first-post/</loc>
+    <loc>https://example.org/first-post/</loc>
     <lastmod>2019-03-01T03:00:46+05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2019-03-02T18:20:42+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2019-03-02T18:20:42+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2019-03-02T18:20:42+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/tags/cricketmatch/</loc>
+    <loc>https://example.org/tags/cricketmatch/</loc>
     <lastmod>2019-03-01T03:00:46+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/tags/imran-khan-pakistan-india-war/</loc>
+    <loc>https://example.org/tags/imran-khan-pakistan-india-war/</loc>
     <lastmod>2019-03-01T03:01:12+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2019-03-02T18:20:42+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/categories/politics/</loc>
+    <loc>https://example.org/categories/politics/</loc>
     <lastmod>2019-03-01T03:01:12+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2019-03-01T14:36:24+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/categories/sports/</loc>
+    <loc>https://example.org/categories/sports/</loc>
     <lastmod>2019-03-01T03:00:46+05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ghaffarbajwa9.github.io/hugo_site/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2019-03-02T18:20:42+05:00</lastmod>
     <priority>0</priority>
   </url>

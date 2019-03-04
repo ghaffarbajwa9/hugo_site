@@ -24,5 +24,4 @@ page_content: [
   }
 ]
 ---
-{{<aa>}}
 {{<related-list>}}
