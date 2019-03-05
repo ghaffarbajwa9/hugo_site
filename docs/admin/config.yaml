@@ -2,7 +2,7 @@ backend:
   name: github
   repo: ghaffarbajwa9/hugo_site
   branch: master
-publish_mode: editorial_workflow
+
 media_folder: "static/img"
 
 collections:
