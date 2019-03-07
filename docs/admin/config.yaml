@@ -1,13 +1,14 @@
 backend:
   name: github
-  repo: ghaffarbajwa9/hugo_site
+  repo: https://github.com/ghaffarbajwa9/hugo_site
   branch: master
+  site_domain: https://vibrant-shirley-d782ee.netlify.com/
 
-media_folder: "static/img"
-
+media_folder: static/img
+public_folder: static/img
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "news articles" # Used in the UI
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "blog" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

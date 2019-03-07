@@ -5,7 +5,7 @@ backend:
   site_domain: https://vibrant-shirley-d782ee.netlify.com/
 
 media_folder: static/img
-public_folder: /img
+public_folder: static/img
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "blog" # Used in the UI
